@@ -8,9 +8,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/MarceloMPJ/correios"
-	"github.com/MarceloMPJ/correios/config"
-	"github.com/MarceloMPJ/correios/response"
+	correios "github.com/MarceloMPJ/goRREIOS"
+	"github.com/MarceloMPJ/goRREIOS/config"
+	"github.com/MarceloMPJ/goRREIOS/response"
 )
 
 var correiosResponse string

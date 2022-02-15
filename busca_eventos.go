@@ -5,8 +5,8 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/MarceloMPJ/correios/request"
-	"github.com/MarceloMPJ/correios/response"
+	"github.com/MarceloMPJ/goRREIOS/request"
+	"github.com/MarceloMPJ/goRREIOS/response"
 )
 
 const InvalidStatusCode string = "invalid status code: %d"

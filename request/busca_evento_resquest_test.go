@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/MarceloMPJ/correios/config"
-	"github.com/MarceloMPJ/correios/request"
+	"github.com/MarceloMPJ/goRREIOS/config"
+	"github.com/MarceloMPJ/goRREIOS/request"
 )
 
 var CorreiosRequest string

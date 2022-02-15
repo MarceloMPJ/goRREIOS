@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/MarceloMPJ/correios/response"
+	"github.com/MarceloMPJ/goRREIOS/response"
 )
 
 var correiosResponseSending string

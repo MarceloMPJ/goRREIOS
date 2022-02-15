@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/MarceloMPJ/correios/config"
+	"github.com/MarceloMPJ/goRREIOS/config"
 )
 
 func NewBuscaEventosRequest(code string) (*http.Request, error) {
