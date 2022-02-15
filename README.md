@@ -22,19 +22,19 @@ func main() {
 
 	if len(events) > 0 {
 		fmt.Println(*events[0])
-    /*
-    {
-      Tipo:      "PO",
-      Status:    1,
-      Data:      "04/02/2022",
-      Hora:      "13:03",
-      Descricao: "Objeto postado",
-      Local:     "Agência dos Correios",
-      Codigo:    0,
-      Cidade:    "SAO PAULO",
-      UF:        "SP",
-    }
-    */
+		/*
+		{
+			Tipo:      "PO",
+			Status:    1,
+			Data:      "04/02/2022",
+			Hora:      "13:03",
+			Descricao: "Objeto postado",
+			Local:     "Agência dos Correios",
+			Codigo:    0,
+			Cidade:    "SAO PAULO",
+			UF:        "SP",
+		}
+		*/
 	}
 }
 
