@@ -1,0 +1,25 @@
+<soapenv:Body>
+  <ns2:buscaEventosResponse xmlns:ns2="http://resource.webservice.correios.com.br/">
+    <return>
+      <versao>2.0</versao>
+      <qtd>1</qtd>
+      <objeto>
+        <numero>%s</numero>
+        <sigla>JF</sigla>
+        <nome>REMESSA ECONÔMICA C/AR DIGITAL</nome>
+        <categoria>REMESSA ECONÔMICA TALÃO/CARTÃO</categoria>
+        <evento>
+          <tipo>BDE</tipo>
+          <status>23</status>
+          <data>18/03/2014</data>
+          <hora>18:37</hora>
+          <descricao>Objeto enviado ao remetente</descricao>
+          <local>CTCE MACEIO</local>
+          <codigo>57060971</codigo>
+          <cidade>MACEIO</cidade>
+          <uf>AL</uf>
+        </evento>
+      </objeto>
+    </return>
+  </ns2:buscaEventosResponse>
+</soapenv:Body>
